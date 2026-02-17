@@ -1,0 +1,19 @@
+name: 
+  /home/daniel/anaconda-workspace/sample-ml-multiple-unsupervised-technique-analysis/env
+channels:
+  - conda-forge
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - prince
+  - pandas
+  - plotly
+  - pingouin
+  - scikit-learn
+  - numpy
+  - scipy
+  - jupyterlab
+  - matplotlib
+  - openpyxl
+prefix: 
+  /home/daniel/anaconda-workspace/sample-ml-multiple-unsupervised-technique-analysis/env

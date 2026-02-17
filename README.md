@@ -4,7 +4,7 @@ This is a sample Machine Learning (ML) project that exemplifies how to use multi
 © 2026 Daniel Pinheiro Maia All Rights Reserved<br>
 (see Copyright© License at the end of this text).
 
-[**Description of this repository**]<br>This is a sample Machine Learning (ML) project that exemplifies how to use multiple ML non-supervised techniques, on one same dataset, when you have different types of variables - qualitative and quantitative - to analyse altogether.
+[**Description of this repository**]<br>This is a sample Machine Learning (ML) project that exemplifies how to use multiple ML non-supervised techniques, on one same dataset, when you have different types of variables - qualitative and quantitative - to analyse altogether. Regarding Python libs, we've used pandas, numpy, matplotlib, plotly, scipy, scikit-learn, pingouin, and prince, along with Anaconda managed environments.
 
 [**Content**]<br>
 GitHub jupyter notebook | Colab dynamic code import and run:
@@ -22,7 +22,31 @@ You can also run this Jupiter Notebook project remotely at [https://colab.resear
 
 [**Printscreen samples**]<br>
 
-![](./prints/)
+![./prints/print01.png](./prints/print01.png)
+
+![./prints/print02.png](./prints/print02.png)
+
+![./prints/print03.png](./prints/print03.png)
+
+![./prints/print04.png](./prints/print04.png)
+
+![./prints/print05.png](./prints/print05.png)
+
+![./prints/print06.png](./prints/print06.png)
+
+![./prints/print07.png](./prints/print07.png)
+
+![./prints/print08.png](./prints/print08.png)
+
+![./prints/print09.png](./prints/print09.png)
+
+![./prints/print10.png](./prints/print10.png)
+
+![./prints/print11.png](./prints/print11.png)
+
+![./prints/print12.png](./prints/print12.png)
+
+![./prints/print13.png](./prints/print13.png)
 
 [**Support**]<br>
 If you have any suggestion or correction about the content of this repository, please, feel free to open an issue at the project issues' section:<br>
