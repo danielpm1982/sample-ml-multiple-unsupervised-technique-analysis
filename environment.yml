@@ -9,11 +9,13 @@ dependencies:
   - pandas
   - plotly
   - pingouin
-  - scikit-learn
+  - scikit-learn=1.7.2
   - numpy
   - scipy
   - jupyterlab
   - matplotlib
   - openpyxl
+  - factor_analyzer
+  - python=3.12
 prefix: 
   /home/daniel/anaconda-workspace/sample-ml-multiple-unsupervised-technique-analysis/env

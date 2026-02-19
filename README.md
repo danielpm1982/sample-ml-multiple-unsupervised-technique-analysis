@@ -4,7 +4,7 @@ This is a sample Machine Learning (ML) project that exemplifies how to use multi
 © 2026 Daniel Pinheiro Maia All Rights Reserved<br>
 (see Copyright© License at the end of this text).
 
-[**Description of this repository**]<br>This is a sample Machine Learning (ML) project that exemplifies how to use multiple ML non-supervised techniques, on one same dataset, when you have different types of variables - qualitative and quantitative - to analyse altogether. Regarding Python libs, we've used pandas, numpy, matplotlib, plotly, scipy, scikit-learn, pingouin, and prince, along with Anaconda managed environments.
+[**Description of this repository**]<br>This is a sample Machine Learning (ML) project that exemplifies how to use multiple ML non-supervised techniques, on one same dataset, when you have different types of variables - qualitative and quantitative - to analyse altogether. Regarding Python libs, we've used python, pandas, numpy, scipy, scikit-learn, FactorAnalyzer, sympy, pingouin, pyshp, prince, matplotlib, seaborn and plotly, along with Anaconda managed environments.
 
 [**Content**]<br>
 GitHub jupyter notebook | Colab dynamic code import and run:
@@ -13,6 +13,11 @@ GitHub jupyter notebook | Colab dynamic code import and run:
 
 GitHub:<br>[https://github.com/danielpm1982/sample-ml-multiple-unsupervised-technique-analysis/blob/master/cluster-correspondence-analysis-client-segmentation.ipynb](https://github.com/danielpm1982/sample-ml-multiple-unsupervised-technique-analysis/blob/master/cluster-correspondence-analysis-client-segmentation.ipynb)<br>
 Colab:<br>[https://colab.research.google.com/github/danielpm1982/sample-ml-multiple-unsupervised-technique-analysis/blob/master/cluster-correspondence-analysis-client-segmentation.ipynb](https://colab.research.google.com/github/danielpm1982/sample-ml-multiple-unsupervised-technique-analysis/blob/master/cluster-correspondence-analysis-client-segmentation.ipynb)<br>
+
+**PISA Scores x OECD group (Factorial Score (PCA) + Correspondence Analysis)**
+
+GitHub:<br>[https://github.com/danielpm1982/sample-ml-multiple-unsupervised-technique-analysis/blob/master/pca-correspondence-analysis-pisa-scores.ipynb](https://github.com/danielpm1982/sample-ml-multiple-unsupervised-technique-analysis/blob/master/pca-correspondence-analysis-pisa-scores.ipynb)<br>
+Colab:<br>[https://colab.research.google.com/github/danielpm1982/sample-ml-multiple-unsupervised-technique-analysis/blob/master/pca-correspondence-analysis-pisa-scores.ipynb](https://colab.research.google.com/github/danielpm1982/sample-ml-multiple-unsupervised-technique-analysis/blob/master/pca-correspondence-analysis-pisa-scores.ipynb)<br>
 
 [**Source Code and Run**]<br>
 Source code available at github.com, through the following link:<br>
@@ -47,6 +52,18 @@ You can also run this Jupiter Notebook project remotely at [https://colab.resear
 ![./prints/print12.png](./prints/print12.png)
 
 ![./prints/print13.png](./prints/print13.png)
+
+![./prints/print14.png](./prints/print14.png)
+
+![./prints/print15.png](./prints/print15.png)
+
+![./prints/print16.png](./prints/print16.png)
+
+![./prints/print17.png](./prints/print17.png)
+
+![./prints/print18.png](./prints/print18.png)
+
+![./prints/print19.png](./prints/print19.png)
 
 [**Support**]<br>
 If you have any suggestion or correction about the content of this repository, please, feel free to open an issue at the project issues' section:<br>
