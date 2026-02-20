@@ -9,15 +9,20 @@ This is a sample Machine Learning (ML) project that exemplifies how to use multi
 [**Content**]<br>
 GitHub jupyter notebook | Colab dynamic code import and run:
 
-**Client Segmentation (Cluster + Correspondence Analysis)**
+**Client Segmentation: Cluster + Correspondence Analysis**
 
 GitHub:<br>[https://github.com/danielpm1982/sample-ml-multiple-unsupervised-technique-analysis/blob/master/cluster-correspondence-analysis-client-segmentation.ipynb](https://github.com/danielpm1982/sample-ml-multiple-unsupervised-technique-analysis/blob/master/cluster-correspondence-analysis-client-segmentation.ipynb)<br>
 Colab:<br>[https://colab.research.google.com/github/danielpm1982/sample-ml-multiple-unsupervised-technique-analysis/blob/master/cluster-correspondence-analysis-client-segmentation.ipynb](https://colab.research.google.com/github/danielpm1982/sample-ml-multiple-unsupervised-technique-analysis/blob/master/cluster-correspondence-analysis-client-segmentation.ipynb)<br>
 
-**PISA Scores x OECD group (Factorial Score (PCA) + Correspondence Analysis)**
+**PISA Scores x OECD group: Factorial (PCA) + Correspondence Analysis**
 
 GitHub:<br>[https://github.com/danielpm1982/sample-ml-multiple-unsupervised-technique-analysis/blob/master/pca-correspondence-analysis-pisa-scores.ipynb](https://github.com/danielpm1982/sample-ml-multiple-unsupervised-technique-analysis/blob/master/pca-correspondence-analysis-pisa-scores.ipynb)<br>
 Colab:<br>[https://colab.research.google.com/github/danielpm1982/sample-ml-multiple-unsupervised-technique-analysis/blob/master/pca-correspondence-analysis-pisa-scores.ipynb](https://colab.research.google.com/github/danielpm1982/sample-ml-multiple-unsupervised-technique-analysis/blob/master/pca-correspondence-analysis-pisa-scores.ipynb)<br>
+
+**Real Estate Price Evaluation: Correspondence + Factorial (PCA) Analysis**
+
+GitHub:<br>[https://github.com/danielpm1982/sample-ml-multiple-unsupervised-technique-analysis/blob/master/correspondence-pca-analysis-real-estate.ipynb](https://github.com/danielpm1982/sample-ml-multiple-unsupervised-technique-analysis/blob/master/correspondence-pca-analysis-real-estate.ipynb)<br>
+Colab:<br>[https://colab.research.google.com/github/danielpm1982/sample-ml-multiple-unsupervised-technique-analysis/blob/master/correspondence-pca-analysis-real-estate.ipynb](https://colab.research.google.com/github/danielpm1982/sample-ml-multiple-unsupervised-technique-analysis/blob/master/correspondence-pca-analysis-real-estate.ipynb)<br>
 
 [**Source Code and Run**]<br>
 Source code available at github.com, through the following link:<br>
@@ -64,6 +69,30 @@ You can also run this Jupiter Notebook project remotely at [https://colab.resear
 ![./prints/print18.png](./prints/print18.png)
 
 ![./prints/print19.png](./prints/print19.png)
+
+![./prints/print20.png](./prints/print20.png)
+
+![./prints/print21.png](./prints/print21.png)
+
+![./prints/print22.png](./prints/print22.png)
+
+![./prints/print23.png](./prints/print23.png)
+
+![./prints/print24.png](./prints/print24.png)
+
+![./prints/print25.png](./prints/print25.png)
+
+![./prints/print26.png](./prints/print26.png)
+
+![./prints/print27.png](./prints/print27.png)
+
+![./prints/print28.png](./prints/print28.png)
+
+![./prints/print29.png](./prints/print29.png)
+
+![./prints/print30.png](./prints/print30.png)
+
+![./prints/print31.png](./prints/print31.png)
 
 [**Support**]<br>
 If you have any suggestion or correction about the content of this repository, please, feel free to open an issue at the project issues' section:<br>
